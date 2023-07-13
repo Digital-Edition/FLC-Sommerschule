@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="format.css"?>
+<!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI P5//EN" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>SOME AUTHOR</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>SOME DATE</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p rend="text-indent:0mm;">unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p rend="text-indent:0mm;">Automatic Export from Collatex</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>SOME DATE</date>
+          <name>SOME NAME</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Ecce autem ut celebres Iosaphati nomine valles multa movens animo mundi melioris origo attigit, aerii liquido de culmine montis spectandam sese obiecit squalentis imago maesta loci, visaeque comas posuisse virentes vivaces oleae cedrique atque omnis amoenos distinguens colles arbor. Mons ipse per umbras horridior, magni clara argumenta doloris pandit, olivifero laceros a culmine ramos subiiciens oculis. Gemitus plangentis opacae ingeminant valles et amici vallibus amnes. Ipsi etiam aligeri, queis aethere dulce relicto caelicolum domino dilectum invisere montem et valles habitare sacras, purissima tristi gaudia praetexunt vultu, regisque supremos (qua fas) sollicito miserantur amore labores. Atque aliquis fortunati quem credita montis cura premit, dulcique rapit custodia amore, constitit et gemitu vix tandem in verba soluto: „Has” inquit „valles, hos seligis, optime, lucos Leviadum in furias, periurique oscula Iudae? Siccine Gethsemanes laudes nomenque decusque infaustae noctis scelerisque infamia merget? Spes mihi, spes superis fuerat, felicia tanto hospite nocturnis domini celeberrima votis auditura omnem Iosaphati rura per orbem, decessura tuo Parnassi culmina monti, Dictaeos saltus, Phrygiae sacra Dindyma matri, Saturni Latium, vel si quid clarius illis mendaci pietate alienoque auxit honore in caelum tollens aevi longinqua vetustas. </p></div></body></text></TEI>
